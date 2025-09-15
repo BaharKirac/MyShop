@@ -23,3 +23,6 @@ C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\refint\MyShop.dll
 C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\MyShop.pdb
 C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\MyShop.genruntimeconfig.cache
 C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\ref\MyShop.dll
+C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\MyShop.RazorAssemblyInfo.cache
+C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\MyShop.RazorAssemblyInfo.cs
+C:\Users\bkira\Desktop\MyShop\MyShop\obj\Debug\net8.0\MyShop.sourcelink.json
