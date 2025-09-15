@@ -16,3 +16,10 @@ app.MapDefaultControllerRoute();
 //     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+/*
+Program.cs
+
+Uygulamanın başlangıç (entry point) dosyasıdır.
+
+Web sunucusunu başlatır ve gerekli temel ayarları yapar. */
