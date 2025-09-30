@@ -9,8 +9,11 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
-app.MapDefaultControllerRoute();
+app.UseStaticFiles();  // *** ÖNEMLİ: Statik dosyaları wwwroot’tan servis et ***
 
+app.MapDefaultControllerRoute();  // Varsayılan MVC route’u
+
+//? Alternatif (eşdeğer):
 // app.MapControllerRoute(
 //     name: "default",
 //     pattern: "{controller=Home}/{action=Index}/{id?}");
